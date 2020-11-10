@@ -8,5 +8,5 @@ import { Component } from '@angular/core';
   styles: []
 })
 export class AppComponent {
-  title = 'my-first-app';
+  title = 'Shutterfly Deep Links';
 }
