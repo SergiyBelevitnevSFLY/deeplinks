@@ -5,9 +5,28 @@ import { Component, OnInit } from '@angular/core';
   template: `
   <div class="btn-toolbar justify-content-between" role="toolbar" aria-label="Toolbar with button groups">
   <div class="btn-group btn-group-lg" role="group" aria-label="First group">
+
+
   <button type="button" class="btn btn-secondary">
   <a href="shutterfly-staging://mobile/v2/products?products=[1520662]">1520662</a> 
  </button> 
+
+ <button type="button" class="btn btn-secondary">
+ <a href="shutterfly-staging://mobile/v2/products?products=[1116126]">1116126</a> 
+</button> 
+
+<button type="button" class="btn btn-secondary">
+<a href="shutterfly-staging://mobile/v2/products?products=[1499536]">1499536</a> 
+</button> 
+
+<button type="button" class="btn btn-secondary">
+<a href="shutterfly-staging://mobile/v2/products?products=[1523172]">1523172</a> 
+</button> 
+
+<button type="button" class="btn btn-secondary">
+<a href="shutterfly-staging://mobile/v2/products?products=[1523169]">1523169</a> 
+</button> 
+
  <button type="button" class="btn btn-secondary">
  <a href="shutterfly-staging://mobile/v2/products?products=[1502667]">1502667</a> 
 </button> 
