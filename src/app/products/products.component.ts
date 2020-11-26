@@ -88,6 +88,17 @@ import { Component, OnInit } from '@angular/core';
 <button type="button" class="btn btn-secondary">
 <a href="shutterfly-staging://mobile/v2/products?products=[1488043]">1488043</a> 
 </button> 
+
+<button type="button" class="btn btn-secondary">
+<a href="shutterfly-staging://mobile/v2/products?products=[1483710]">1483710</a> 
+</button> 
+
+<button type="button" class="btn btn-secondary">
+<a href="shutterfly-staging://mobile/v2/products?products=[1488067]">1488067</a> 
+</button> 
+
+
+
   <button type="button" class="btn btn-secondary">
   <a href="shutterfly-staging://mobile/v2/products/2">Prints 4X4</a> 
  </button> 
@@ -133,12 +144,7 @@ import { Component, OnInit } from '@angular/core';
  <button type="button" class="btn btn-secondary">
   <a href="shutterfly-staging://mobile/v2/products/242">Books 6X6 hard</a> 
  </button> 
- <button type="button" class="btn btn-secondary">
-  <a href="shutterfly-staging://mobile/v2/products/248">Books 8X8 soft</a> 
- </button> 
- <button type="button" class="btn btn-secondary">
-  <a href="shutterfly-staging://mobile/v2/products/246">Books 8x8 hard</a> 
- </button> 
+
  
 
 
