@@ -6,7 +6,16 @@ import { Component, OnInit } from '@angular/core';
   <div class="btn-toolbar justify-content-between" role="toolbar" aria-label="Toolbar with button groups">
   <div class="btn-group btn-group-lg" role="group" aria-label="First group">
 
+  <button type="button" class="btn btn-secondary">
+  <a href="shutterfly-staging://mobile/v2/products?products=[PB_6X6_02]">PB_6X6_02</a> 
+ </button> 
 
+ <button type="button" class="btn btn-secondary">
+ <a href="shutterfly-staging://mobile/v2/products?products=[WALLCAL_8X11]">WALLCAL_8X11</a> 
+</button> 
+
+  
+  
   <button type="button" class="btn btn-secondary">
   <a href="shutterfly-staging://mobile/v2/products?products=[1520662]">1520662</a> 
  </button> 
@@ -144,6 +153,8 @@ import { Component, OnInit } from '@angular/core';
  <button type="button" class="btn btn-secondary">
   <a href="shutterfly-staging://mobile/v2/products/242">Books 6X6 hard</a> 
  </button> 
+
+ 
 
  
 
