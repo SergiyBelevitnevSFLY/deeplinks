@@ -11,6 +11,14 @@ import { Component, OnInit } from '@angular/core';
  </button> 
 
  <button type="button" class="btn btn-secondary">
+  <a href="shutterfly-staging://mobile/v2/products?products=[1300449]">1300449</a> 
+ </button> 
+
+  <button type="button" class="btn btn-secondary">
+  <a href="shutterfly-staging://mobile/v2/products?products=[1353253]">1353253</a> 
+ </button> 
+
+ <button type="button" class="btn btn-secondary">
  <a href="shutterfly-staging://mobile/v2/products?products=[WALLCAL_8X11]">WALLCAL_8X11</a> 
 </button> 
 <button type="button" class="btn btn-secondary">
