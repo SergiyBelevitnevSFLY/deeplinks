@@ -120,57 +120,134 @@ import { Component, OnInit } from '@angular/core';
 </button> 
 
 
+<button type="button" class="btn btn-secondary">
+<a href="shutterfly-staging://mobile/v2/products?products=[1278292]">1278292</a> 
+</button> 
 
-  <button type="button" class="btn btn-secondary">
-  <a href="shutterfly-staging://mobile/v2/products/2">Prints 4X4</a> 
- </button> 
- <button type="button" class="btn btn-secondary">
-  <a href="shutterfly-staging://mobile/v2/products/4">Prints 4X6</a> 
- </button> 
- <button type="button" class="btn btn-secondary">
-  <a href="shutterfly-staging://mobile/v2/products/6">Prints 5X7</a> 
- </button> 
- <button type="button" class="btn btn-secondary">
-  <a href="shutterfly-staging://mobile/v2/products/240">Prints Wallet</a> 
- </button> 
- <button type="button" class="btn btn-secondary">
-  <a href="shutterfly-staging://mobile/v2/products/8">Prints 8X8</a> 
- </button> 
- <button type="button" class="btn btn-secondary">
-  <a href="shutterfly-staging://mobile/v2/products/68">Prints 8X10</a> 
- </button> 
- <button type="button" class="btn btn-secondary">
-  <a href="shutterfly-staging://mobile/v2/products/70">Prints 11X14</a> 
- </button> 
- <button type="button" class="btn btn-secondary">
-  <a href="shutterfly-staging://mobile/v2/products/234">Prints 12X12</a> 
- </button> 
- <button type="button" class="btn btn-secondary">
-  <a href="shutterfly-staging://mobile/v2/products/434">Prints 16X20</a> 
- </button> 
- <button type="button" class="btn btn-secondary">
-  <a href="shutterfly-staging://mobile/v2/products/238">Prints 20X30</a> 
- </button> 
- <button type="button" class="btn btn-secondary">
-  <a href="shutterfly-staging://mobile/v2/products/2148">Prints 5X15</a> 
- </button> 
- <button type="button" class="btn btn-secondary">
-  <a href="shutterfly-staging://mobile/v2/products/2150">Prints 8X24</a> 
- </button> 
- <button type="button" class="btn btn-secondary">
-  <a href="shutterfly-staging://mobile/v2/products/2152">Prints 12X36</a> 
- </button> 
- <button type="button" class="btn btn-secondary">
-  <a href="shutterfly-staging://mobile/v2/products/244">Books 6X6 soft</a> 
- </button> 
- <button type="button" class="btn btn-secondary">
-  <a href="shutterfly-staging://mobile/v2/products/242">Books 6X6 hard</a> 
- </button> 
 
- 
+<button type="button" class="btn btn-secondary">
+<a href="shutterfly-staging://mobile/v2/products?products=[1428768]">1428768</a> 
+</button> 
 
- 
 
+<button type="button" class="btn btn-secondary">
+<a href="shutterfly-staging://mobile/v2/products?products=[1522657]">1522657</a> 
+</button> 
+
+
+<button type="button" class="btn btn-secondary">
+<a href="shutterfly-staging://mobile/v2/products?products=[561686]">561686</a> 
+</button> 
+
+
+<button type="button" class="btn btn-secondary">
+<a href="shutterfly-staging://mobile/v2/products?products=[1397462]">1397462</a> 
+</button> 
+
+
+<button type="button" class="btn btn-secondary">
+<a href="shutterfly-staging://mobile/v2/products?products=[1237697]">1237697</a> 
+</button> 
+
+
+<button type="button" class="btn btn-secondary">
+<a href="shutterfly-staging://mobile/v2/products?products=[1125455]">1125455</a> 
+</button> 
+
+
+<button type="button" class="btn btn-secondary">
+<a href="shutterfly-staging://mobile/v2/products?products=[1085680]">1085680</a> 
+</button> 
+
+
+<button type="button" class="btn btn-secondary">
+<a href="shutterfly-staging://mobile/v2/products?products=[1390619]">1390619</a> 
+</button> 
+
+
+<button type="button" class="btn btn-secondary">
+<a href="shutterfly-staging://mobile/v2/products?products=[1520808]">1520808</a> 
+</button> 
+
+
+<button type="button" class="btn btn-secondary">
+<a href="shutterfly-staging://mobile/v2/products?products=[1405540]">1405540</a> 
+</button> 
+
+
+<button type="button" class="btn btn-secondary">
+<a href="shutterfly-staging://mobile/v2/products?products=[1407916]">1407916</a> 
+</button> 
+
+
+<button type="button" class="btn btn-secondary">
+<a href="shutterfly-staging://mobile/v2/products?products=[1294714]">1294714</a> 
+</button> 
+
+
+<button type="button" class="btn btn-secondary">
+<a href="shutterfly-staging://mobile/v2/products?products=[1244465]">1244465</a> 
+</button> 
+
+
+<button type="button" class="btn btn-secondary">
+<a href="shutterfly-staging://mobile/v2/products?products=[1344831]">1344831</a> 
+</button> 
+
+
+<button type="button" class="btn btn-secondary">
+<a href="shutterfly-staging://mobile/v2/products?products=[1259369]">1259369</a> 
+</button> 
+
+
+<button type="button" class="btn btn-secondary">
+<a href="shutterfly-staging://mobile/v2/products?products=[1217116]">1217116</a> 
+</button> 
+
+
+<button type="button" class="btn btn-secondary">
+<a href="shutterfly-staging://mobile/v2/products?products=[1500465]">1500465</a> 
+</button> 
+
+
+<button type="button" class="btn btn-secondary">
+<a href="shutterfly-staging://mobile/v2/products?products=[1479951]">1479951</a> 
+</button> 
+
+
+<button type="button" class="btn btn-secondary">
+<a href="shutterfly-staging://mobile/v2/products?products=[1258141]">1258141</a> 
+</button> 
+
+
+<button type="button" class="btn btn-secondary">
+<a href="shutterfly-staging://mobile/v2/products?products=[1480265]">1480265</a> 
+</button> 
+
+
+<button type="button" class="btn btn-secondary">
+<a href="shutterfly-staging://mobile/v2/products?products=[1059346]">1059346</a> 
+</button> 
+
+
+<button type="button" class="btn btn-secondary">
+<a href="shutterfly-staging://mobile/v2/products?products=[1502688]">1502688</a> 
+</button> 
+
+
+<button type="button" class="btn btn-secondary">
+<a href="shutterfly-staging://mobile/v2/products?products=[1391004]">1391004</a> 
+</button> 
+
+
+<button type="button" class="btn btn-secondary">
+<a href="shutterfly-staging://mobile/v2/products?products=[1163631]">1163631</a> 
+</button> 
+
+
+<button type="button" class="btn btn-secondary">
+<a href="shutterfly-staging://mobile/v2/products?products=[1273548]">1273548</a> 
+</button> 
 
   </div>
   </div>
