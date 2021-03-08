@@ -10,24 +10,10 @@ import { Component, OnInit } from '@angular/core';
   <a href="shutterfly-staging://mobile/v2/products?products=[PB_6X6_02]">PB_6X6_02</a> 
  </button> 
 
- 
-
-<button type="button" class="btn btn-secondary">
-<a href="shutterfly-staging://mobile/v2/products?products=[1483710]">1483710</a> 
-</button> 
-
-<button type="button" class="btn btn-secondary">
-<a href="shutterfly-staging://mobile/v2/products?products=[1488067]">1488067</a> 
-</button> 
 
 
 <button type="button" class="btn btn-secondary">
 <a href="shutterfly-staging://mobile/v2/products?products=[1278292]">1278292</a> 
-</button> 
-
-
-<button type="button" class="btn btn-secondary">
-<a href="shutterfly-staging://mobile/v2/products?products=[1428768]">1428768</a> 
 </button> 
 
 
@@ -39,12 +25,6 @@ import { Component, OnInit } from '@angular/core';
 <button type="button" class="btn btn-secondary">
 <a href="shutterfly-staging://mobile/v2/products?products=[561686]">561686</a> 
 </button> 
-
-
-<button type="button" class="btn btn-secondary">
-<a href="shutterfly-staging://mobile/v2/products?products=[1397462]">1397462</a> 
-</button> 
-
 
 <button type="button" class="btn btn-secondary">
 <a href="shutterfly-staging://mobile/v2/products?products=[1237697]">1237697</a> 
@@ -77,11 +57,6 @@ import { Component, OnInit } from '@angular/core';
 
 
 <button type="button" class="btn btn-secondary">
-<a href="shutterfly-staging://mobile/v2/products?products=[1407916]">1407916</a> 
-</button> 
-
-
-<button type="button" class="btn btn-secondary">
 <a href="shutterfly-staging://mobile/v2/products?products=[1294714]">1294714</a> 
 </button> 
 
@@ -96,15 +71,6 @@ import { Component, OnInit } from '@angular/core';
 </button> 
 
 
-<button type="button" class="btn btn-secondary">
-<a href="shutterfly-staging://mobile/v2/products?products=[1259369]">1259369</a> 
-</button> 
-
-
-<button type="button" class="btn btn-secondary">
-<a href="shutterfly-staging://mobile/v2/products?products=[1217116]">1217116</a> 
-</button> 
-
 
 <button type="button" class="btn btn-secondary">
 <a href="shutterfly-staging://mobile/v2/products?products=[1500465]">1500465</a> 
@@ -115,39 +81,8 @@ import { Component, OnInit } from '@angular/core';
 <a href="shutterfly-staging://mobile/v2/products?products=[1479951]">1479951</a> 
 </button> 
 
-
-<button type="button" class="btn btn-secondary">
-<a href="shutterfly-staging://mobile/v2/products?products=[1258141]">1258141</a> 
-</button> 
-
-
-<button type="button" class="btn btn-secondary">
-<a href="shutterfly-staging://mobile/v2/products?products=[1480265]">1480265</a> 
-</button> 
-
-
 <button type="button" class="btn btn-secondary">
 <a href="shutterfly-staging://mobile/v2/products?products=[1059346]">1059346</a> 
-</button> 
-
-
-<button type="button" class="btn btn-secondary">
-<a href="shutterfly-staging://mobile/v2/products?products=[1502688]">1502688</a> 
-</button> 
-
-
-<button type="button" class="btn btn-secondary">
-<a href="shutterfly-staging://mobile/v2/products?products=[1391004]">1391004</a> 
-</button> 
-
-
-<button type="button" class="btn btn-secondary">
-<a href="shutterfly-staging://mobile/v2/products?products=[1163631]">1163631</a> 
-</button> 
-
-
-<button type="button" class="btn btn-secondary">
-<a href="shutterfly-staging://mobile/v2/products?products=[1273548]">1273548</a> 
 </button> 
 
 
@@ -160,31 +95,7 @@ import { Component, OnInit } from '@angular/core';
 </button> 
 
 <button type="button" class="btn btn-secondary">
-<a href="shutterfly-staging://mobile/v2/products?products=[1371768]">1371768</a> 
-</button> 
-
-<button type="button" class="btn btn-secondary">
 <a href="shutterfly-staging://mobile/v2/products?products=[1298087]">1298087</a> 
-</button> 
-
-<button type="button" class="btn btn-secondary">
-<a href="shutterfly-staging://mobile/v2/products?products=[1204729]">1204729</a> 
-</button> 
-
-<button type="button" class="btn btn-secondary">
-<a href="shutterfly-staging://mobile/v2/products?products=[1478390]">1478390</a> 
-</button> 
-
-<button type="button" class="btn btn-secondary">
-<a href="shutterfly-staging://mobile/v2/products?products=[1353640]">1353640</a> 
-</button> 
-
-
-
-
-
-<button type="button" class="btn btn-secondary">
-<a href="shutterfly-staging://mobile/v2/products?products=[1489313]">1489313</a> 
 </button> 
 
 <button type="button" class="btn btn-secondary">
@@ -192,36 +103,9 @@ import { Component, OnInit } from '@angular/core';
 </button> 
 
 <button type="button" class="btn btn-secondary">
-<a href="shutterfly-staging://mobile/v2/products?products=[1398662]">1398662</a> 
-</button> 
-
-<button type="button" class="btn btn-secondary">
-<a href="shutterfly-staging://mobile/v2/products?products=[1406405]">1406405</a> 
-</button> 
-
-<button type="button" class="btn btn-secondary">
-<a href="shutterfly-staging://mobile/v2/products?products=[1524907]">1524907</a> 
-</button> 
-
-<button type="button" class="btn btn-secondary">
-<a href="shutterfly-staging://mobile/v2/products?products=[1206499]">1206499</a> 
-</button> 
-
-<button type="button" class="btn btn-secondary">
-<a href="shutterfly-staging://mobile/v2/products?products=[1507337]">1507337</a> 
-</button> 
-
-<button type="button" class="btn btn-secondary">
 <a href="shutterfly-staging://mobile/v2/products?products=[1490318]">1490318</a> 
 </button> 
 
-<button type="button" class="btn btn-secondary">
-<a href="shutterfly-staging://mobile/v2/products?products=[1402862]">1402862</a> 
-</button> 
-
-<button type="button" class="btn btn-secondary">
-<a href="shutterfly-staging://mobile/v2/products?products=[1525151]">1525151</a> 
-</button> 
 
 <button type="button" class="btn btn-secondary">
 <a href="shutterfly-staging://mobile/v2/products?products=[1135468]">1135468</a> 
@@ -233,10 +117,6 @@ import { Component, OnInit } from '@angular/core';
 
 <button type="button" class="btn btn-secondary">
 <a href="shutterfly-staging://mobile/v2/products?products=[1523179]">1523179</a> 
-</button> 
-
-<button type="button" class="btn btn-secondary">
-<a href="shutterfly-staging://mobile/v2/products?products=[1227419]">1227419</a> 
 </button> 
 
 <button type="button" class="btn btn-secondary">
@@ -255,9 +135,6 @@ import { Component, OnInit } from '@angular/core';
 <a href="shutterfly-staging://mobile/v2/products?products=[1523179]">1523179</a> 
 </button> 
 
-<button type="button" class="btn btn-secondary">
-<a href="shutterfly-staging://mobile/v2/products?products=[1523190]">1523190</a> 
-</button> 
 
 <button type="button" class="btn btn-secondary">
 <a href="shutterfly-staging://mobile/v2/products?products=[1134544]">1134544</a> 
