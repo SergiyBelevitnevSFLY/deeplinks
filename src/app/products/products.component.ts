@@ -6,21 +6,18 @@ import { Component, OnInit } from '@angular/core';
   <div class="btn-toolbar justify-content-between" role="toolbar" aria-label="Toolbar with button groups">
   <div class="btn-group btn-group-lg" role="group" aria-label="First group">
 
+
   <button type="button" class="btn btn-secondary">
   <a href="shutterfly-staging://mobile/v2/products?products=[PB_6X6_02]">PB_6X6_02</a> 
  </button> 
-
-
 
 <button type="button" class="btn btn-secondary">
 <a href="shutterfly-staging://mobile/v2/products?products=[1278292]">1278292</a> 
 </button> 
 
-
 <button type="button" class="btn btn-secondary">
 <a href="shutterfly-staging://mobile/v2/products?products=[1522657]">1522657</a> 
 </button> 
-
 
 <button type="button" class="btn btn-secondary">
 <a href="shutterfly-staging://mobile/v2/products?products=[561686]">561686</a> 
@@ -35,16 +32,13 @@ import { Component, OnInit } from '@angular/core';
 <a href="shutterfly-staging://mobile/v2/products?products=[1125455]">1125455</a> 
 </button> 
 
-
 <button type="button" class="btn btn-secondary">
 <a href="shutterfly-staging://mobile/v2/products?products=[1085680]">1085680</a> 
 </button> 
 
-
 <button type="button" class="btn btn-secondary">
 <a href="shutterfly-staging://mobile/v2/products?products=[1390619]">1390619</a> 
 </button> 
-
 
 <button type="button" class="btn btn-secondary">
 <a href="shutterfly-staging://mobile/v2/products?products=[1520808]">1520808</a> 
@@ -471,6 +465,8 @@ import { Component, OnInit } from '@angular/core';
 <button type="button" class="btn btn-secondary">
 <a href="shutterfly-staging://mobile/v2/products?products=[1227419]">1227419</a> 
 </button> 
+
+
   </div>
   </div>
   `,
