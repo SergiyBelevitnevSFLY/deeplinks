@@ -117,6 +117,10 @@ import { Component, OnInit } from '@angular/core';
     <a  href="shutterfly-staging://mobile/v2/section/lifetouch?screen=pictureDay">Lifetouch picture day screen</a>
     </button>
 
+    <button type="button" class="btn btn-secondary">
+    <a  href="shutterfly-staging://mobile/v2/section/socialBook?source=instagram">Social book instagram</a>
+    </button>
+
 
 
 
