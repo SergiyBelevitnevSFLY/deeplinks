@@ -121,6 +121,16 @@ import { Component, OnInit } from '@angular/core';
     <a  href="shutterfly-staging://mobile/v2/section/socialBook?source=instagram">Social book instagram</a>
     </button>
 
+    <button type="button" class="btn btn-secondary">
+    <a  href="shutterfly-staging://mobile/v2/section/socialBook?source=instagram">Social book instagram</a>
+    </button>
+
+    <button type="button" class="btn btn-secondary">
+    <a  href="shutterfly-staging://mobile/v2/refer_a_friend?campaignTag=mobile-app">Refer A Friend</a>
+    </button>
+
+
+
 
 
 
