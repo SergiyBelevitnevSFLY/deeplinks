@@ -118,11 +118,7 @@ import { Component, OnInit } from '@angular/core';
     </button>
 
     <button type="button" class="btn btn-secondary">
-    <a  href="shutterfly-staging://mobile/v2/section/socialBook?source=instagram">Social book instagram</a>
-    </button>
-
-    <button type="button" class="btn btn-secondary">
-    <a  href="shutterfly-staging://mobile/v2/section/socialBook?source=instagram">Social book instagram</a>
+    <a  href="shutterfly-staging://mobile/v2/section/social_book?source=instagram">Social book instagram</a>
     </button>
 
     <button type="button" class="btn btn-secondary">
